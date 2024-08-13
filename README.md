@@ -5,18 +5,26 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />  
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />  
   <img alt="Spring Cloud" src="https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />  
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />  
+  </br>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0073e6?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />  
-  <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />  
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />  
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img alt="Calcite" src="https://img.shields.io/badge/-Calcite-blue?style=flat-square" />
+  </br>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />  
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-19171F?style=flat-square&logo=ansible&logoColor=white" />  
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-26A69A?style=flat-square&logo=terraform&logoColor=white" />  
-  <img alt="Calcite" src="https://img.shields.io/badge/-Calcite-blue?style=flat-square" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-26A69A?style=flat-square&logo=terraform&logoColor=white" /> 
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />  
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0072C6?style=flat-square&logo=microsoft-azure&logoColor=white" />  
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />  
   <img alt="华为云" src="https://img.shields.io/badge/-华为云-E67A2E?style=flat-square&logo=huawei-cloud&logoColor=white" />
+  </br>
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-41b883?style=flat-square&logo=vue.js&logoColor=white" />  
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />  
+  <img alt="Ant Design" src="https://img.shields.io/badge/-Ant%20Design-blue?style=flat-square&logo=ant-design&logoColor=white" />  
+  <img alt="Element UI" src="https://img.shields.io/badge/-Element%20UI-409EFF?style=flat-square&logo=element-ui&logoColor=white" />
 </p>
 <h3>Contributed open source projects</h3>
 <table>

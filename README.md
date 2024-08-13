@@ -38,7 +38,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/apache/calcite?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/apache/calcite?style=flat-square&labelColor=343b41"/></td>
       <td>
-        <a href="https://github.com/apache/calcite/commit/c27cdb4d156e3d1d7614c1f46a728b3e4caa9392"><b>Enable more tests in RelBuilderExample</b></a>
+        <a href="https://github.com/apache/calcite/pull/3913"><b>Enable more tests in RelBuilderExample</b></a>
       </td>
     </tr>
   </tbody>

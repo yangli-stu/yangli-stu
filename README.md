@@ -19,7 +19,7 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />  
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0072C6?style=flat-square&logo=microsoft-azure&logoColor=white" />  
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />  
-  <img alt="华为云" src="https://img.shields.io/badge/-华为云-E67A2E?style=flat-square&logo=huawei-cloud&logoColor=white" />
+  <img alt="Huawei Cloud" src="https://img.shields.io/badge/-Huawei%20Cloud-E67A2E?style=flat-square&logo=huawei-cloud&logoColor=white" />
   </br>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-41b883?style=flat-square&logo=vue.js&logoColor=white" />  
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />  

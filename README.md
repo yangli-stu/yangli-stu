@@ -69,6 +69,16 @@
         <a href="https://github.com/apache/incubator-seata-website/pull/878"><b>Optimize the description of Seata-at-mode-start-rm-tm.md</b></a>
       </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/disposable-email-domains/disposable-email-domains"><b>disposable-email-domains</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/disposable-email-domains/disposable-email-domains?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/disposable-email-domains/disposable-email-domains?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/disposable-email-domains/disposable-email-domains?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/disposable-email-domains/disposable-email-domains?style=flat-square&labelColor=343b41"/></td>
+      <td>
+        <a href="https://github.com/disposable-email-domains/disposable-email-domains/pull/563"><b>add new domains: servicetr.me, servicee.es, universall.me.</b></a>
+      </td>
+    </tr>
   </tbody>
 </table>
 

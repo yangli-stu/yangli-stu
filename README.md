@@ -82,3 +82,9 @@
   </tbody>
 </table>
 
+<h3>📈 Star History</h3>
+<p>
+  <a href="https://star-history.com/yangli-stu/quick-notify&type=Line">
+    <img src="https://api.star-history.com/svg?repos=yangli-stu/quick-notify&type=Line&theme=dark" alt="Star History" />
+  </a>
+</p>
